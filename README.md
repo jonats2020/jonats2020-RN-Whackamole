@@ -1,1 +1,1 @@
-# jonats2020-RN-Whackamole
+# Whack-a-mole App
